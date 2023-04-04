@@ -13,7 +13,10 @@ Desde pequeña tuve un gran interés en la tecnología, lo que me permitió apre
   <summary> 💡 Cosas sobre mi</summary>
 
 - 🇻🇪 Actualmente vivo en el país en el que nací, Venezuela
-- 🐍 Hablo Inglés, Portugués, Chino Mandarín... ¡y Python también!
+
+- 🐍 Puedo hablar Inglés, Portugués, Chino Mandarín... ¡y Python también!
+
+- La primera vez que toqué un IDE fue en Diciembre del 2021, era Visual Studio Code
 
 </details>
 <p>
@@ -26,7 +29,7 @@ Desde pequeña tuve un gran interés en la tecnología, lo que me permitió apre
 
 **Punto Singular · X | Ingeniera de Software | Dec.2022 - Present**
 
-Creciendo como ingeniera de Software!
+¡Creciendo como Ingeniera de Software!
 
 Lenguajes y tecnologías utilizadas: `Visual Studio 2022` , `C#`·`.NET Core 6` , `ASP.NET MVC`·`Razor Pages` , `SQL`·`MySQL`·`SQLAlchemy` , `JavaScript`·`HTML`·`CSS`
  
