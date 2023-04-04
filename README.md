@@ -27,9 +27,9 @@ Desde pequeña tuve un gran interés en la tecnología, lo que me permitió apre
   
 <img align="left" height="100px" width="100px" alt="Punto Singular Logo" src="https://github.com/danielabarazarte/danielabarazarte/blob/main/work_experience/punto_singular.png?raw=true"/>
 
-**Punto Singular · X | Ingeniera de Software | Dec.2022 - Present**
+**Punto Singular · X | Gestora de aprendizaje virtual sobre Ingeniería de Software | Dec.2022 - Present**
 
-¡Creciendo como Ingeniera de Software!
+🤍
 
 Lenguajes y tecnologías utilizadas: `Visual Studio 2022` , `C#`·`.NET Core 6` , `ASP.NET MVC`·`Razor Pages` , `SQL`·`MySQL`·`SQLAlchemy` , `JavaScript`·`HTML`·`CSS`
  
