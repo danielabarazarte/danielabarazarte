@@ -23,7 +23,7 @@ Desde pequeña tuve un gran interés en la tecnología, lo que me permitió apre
  
 ## 👷🏼‍♀️ En donde estoy
   
-### Perfil de desarrolladora
+### 🚀 Perfil de desarrolladora
   https://github.com/danielabarazarte
   
 ### 💼 Labor
