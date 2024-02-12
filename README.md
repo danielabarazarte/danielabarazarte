@@ -4,7 +4,7 @@
   
 ## 👩🏼‍💻 Quien soy
 
-Hello World, mi nombre es Daniela Barazarte 🤍
+Hello World, mi nombre es Daniela Barazarte 🤍 también conocida como Ingeniela
 
 Desde pequeña tuve un gran interés en la tecnología, lo que me permitió aprender más y más sobre ella. Ser programadora tiene muchas cosas que disfruto como escribir, crear, diseñar, solucionar problemas, pasar mucho tiempo aprendiendo, entre otros.
 <p>
@@ -23,8 +23,8 @@ Desde pequeña tuve un gran interés en la tecnología, lo que me permitió apre
  
 ## 👷🏼‍♀️ En donde estoy
   
-### 🚀 Perfil de desarrolladora
-  https://github.com/danielabarazarte
+### 🚀 Perfil público
+  https://github.com/ingeniela
   
 ### 💼 Labor
   
@@ -34,7 +34,7 @@ Desde pequeña tuve un gran interés en la tecnología, lo que me permitió apre
 
 🤍
 
-Lenguajes y tecnologías utilizadas: `Visual Studio 2022` , `C#`·`.NET Core 6` , `ASP.NET MVC`·`Razor Pages` , `SQL`·`MySQL`·`SQLAlchemy` , `JavaScript`·`HTML`·`CSS`
+Lenguajes y tecnologías utilizadas: `Visual Studio 2022` , `C#`·`.NET Core 5+` , `ASP.NET MVC`·`Razor Pages` , `SQL`·`MySQL`·`SQLAlchemy` , `JavaScript`·`HTML`·`CSS`
  
 
 <p align="center">
